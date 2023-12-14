@@ -32,9 +32,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the TCC License.
 
-## Acknowledgments
-
-- The project structure and initial implementation are inspired by [insert reference or inspiration here].
-- Special thanks to [contributors' names] for their valuable contributions.
-
 Feel free to explore, use, and contribute to make this student record system even better!

@@ -11,7 +11,7 @@ A simple student record system implemented in C, allowing users to manage studen
 
 ## How to Use
 
-- **Clone the repository:** git clone https://github.com/yourusername/ C_menudriven-Student-Record
+- **Clone the repository:** git clone https://github.com/yourusername/C_menudriven-Student-Record
 - **Navigate to the project directory:** `cd student-record-system`
 - **Compile the program:** `gcc main.c -o student_record_system`
 - **Run the executable:** `./student_record_system`
